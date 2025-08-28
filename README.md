@@ -1,5 +1,4 @@
-## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" 
-     alt="wave" width="30"/>
+## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" alt="wave" width="30"/>
 
 <!--
 **turcotte87/turcotte87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
